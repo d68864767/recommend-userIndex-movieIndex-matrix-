@@ -1,0 +1,24 @@
+{
+  "name": "movie-recommendation-system",
+  "version": "1.0.0",
+  "description": "A simple movie recommendation system using collaborative filtering and cosine similarity.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recommendation",
+    "system",
+    "movies",
+    "collaborative",
+    "filtering",
+    "cosine",
+    "similarity"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "node": ">=10.0.0"
+  }
+}
